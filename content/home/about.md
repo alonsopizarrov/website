@@ -12,4 +12,4 @@ design:
     image: ""
   columns: ""
 ---
-Alonso Pizarro
+Alonso Pizarro is Assitant Proofessor
