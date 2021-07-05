@@ -8,6 +8,6 @@ weight: 20
 title: Biography
 design:
   background:
-    image: alonso_web.jpg
+    image: ""
 ---
 Alonso Pizarro
