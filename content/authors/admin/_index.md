@@ -27,7 +27,7 @@ social:
   - display:
       header: false
     link: https://osf.io/w2br8/
-    icon_pack: fab
+    icon_pack: ai
     icon: osf
 organizations:
   - name: Diego Portales University
