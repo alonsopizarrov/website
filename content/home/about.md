@@ -1,13 +1,15 @@
 ---
 widget: blank
-active: true
+active: false
 author: admin
-widget_id: ABout
+widget_id: Alonso Pizarro
 headless: true
 weight: 20
-title: Biography
+title: ""
+subtitle: Biography
 design:
   background:
     image: ""
+  columns: "2"
 ---
 Alonso Pizarro
