@@ -10,6 +10,6 @@ subtitle: Biography
 design:
   background:
     image: ""
-  columns: "2"
+  columns: ""
 ---
 Alonso Pizarro
