@@ -7,6 +7,7 @@ bio: My research interests include Hydraulcis, Hydrology, Stochastic processes
 interests:
   - Hydraulics
   - Hydrology
+  - Stochastics processes in Hydrology
   - Fluvial Monitoring
   - UASs
   - Bridge Scour
@@ -43,9 +44,6 @@ email: alonsopizarrov@gmail.com
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alonso Pizarro is a professor of hydraulics and hydrology at Diego Portales University. His research interests include hydrology, hydraulics, sediment transport, bridge scour, flood prediction, extreme flood events, stochastic processes, environmental monitoring using Unmanned Aerial Systems (UASs), and remote sensing applications for fluvial monitoring. Alonso utilises advanced surveying and flow measurement techniques and laboratory experiments. He is proficient in advanced programming languages (Matlab and Python) and GIS software (QGIS), which he uses to manipulate and analyse complex datasets, regularly publishing research articles in leading international journals.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
