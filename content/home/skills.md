@@ -1,5 +1,5 @@
 ---
-widget: featurette
+widget: blank
 headless: true
 weight: 30
 title: Skills
@@ -18,4 +18,5 @@ feature:
     icon_pack: fas
     name: Photography
 widget_id: featurette
+active: true
 ---
