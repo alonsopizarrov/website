@@ -1,15 +1,14 @@
 ---
-widget: blank
-active: false
+widget: about
+active: true
 author: admin
-widget_id: Alonso Pizarro
+widget_id: new about
 headless: true
-weight: 20
-title: ""
-subtitle: Biography
+weight: 0
+title: Biography
+subtitle: ""
 design:
   background:
     image: ""
   columns: ""
 ---
-Alonso Pizarro is Assitant Proofessor
