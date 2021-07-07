@@ -4,7 +4,7 @@ url_pdf: ""
 date: 2021-07-07T19:16:42.973Z
 summary: ""
 url_video: ""
-title: COST HARMNOIOUS
+title: COST HARMONIOUS
 featured: true
 tags:
   - UAS
