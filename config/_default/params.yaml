@@ -39,7 +39,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: 2
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
