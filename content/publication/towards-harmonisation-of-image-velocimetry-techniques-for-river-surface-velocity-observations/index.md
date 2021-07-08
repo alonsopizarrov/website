@@ -4,52 +4,29 @@ title: Towards harmonisation of image velocimetry techniques for river surface
 publication_types:
   - "2"
 authors:
-  - Perks
-  - M. T.
-  - Dal Sasso
-  - S. F.
-  - Hauet
-  - A.
-  - Jamieson
-  - E.
-  - Le Coz
-  - J.
-  - Pearce
-  - S.
-  - Peña-Haro
-  - S.
-  - Pizarro
-  - A.
-  - Strelnikova
-  - D.
-  - Tauro
-  - F.
-  - Bomhof
-  - J.
-  - Grimaldi
-  - S.
-  - Goulet
-  - A.
-  - Hortobágyi
-  - B.
-  - Jodeau
-  - M.
-  - Käfer
-  - S.
-  - Ljubičić
-  - R.
-  - Maddock
-  - I.
-  - Mayr
-  - P.
-  - Paulus
-  - G.
-  - Pénard
-  - L.
-  - Sinclair
-  - L.
-  - and Manfreda
-  - S.
+  - Matthew T. Perks
+  - Silvano Fortunato Dal Sasso
+  - Alexandre Hauet
+  - Elizabeth Jamieson
+  - Jérôme Le Coz
+  - Sophie Pearce
+  - Salvador Peña-Haro
+  - admin
+  - Dariia Strelnikova
+  - Flavia Tauro
+  - James Bomhof
+  - Salvatore Grimaldi
+  - Alain Goulet
+  - Borbála Hortobágyi
+  - Magali Jodeau
+  - Sabine Käfer
+  - Robert Ljubičić
+  - Ian Maddock
+  - Peter Mayr
+  - Gernot Paulus
+  - Lionel Pénard
+  - Leigh Sinclair
+  - Salvatore Manfreda
 doi: https://doi.org/10.5194/essd-12-1545-2020
 publication: in *Earth System Science Data*
 abstract: Since the turn of the 21st century, image-based velocimetry techniques
