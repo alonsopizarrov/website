@@ -28,7 +28,7 @@ address:
   region: Región Metropolitana
   country: Chile
   country_code: CL
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://calendly.com/alonsopizarro'
 contact_links:
   - icon: twitter
     icon_pack: fab
