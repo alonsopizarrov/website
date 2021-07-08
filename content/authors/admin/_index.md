@@ -18,9 +18,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AlonsoPizarroV
-  - icon: graduation-cap
-    icon_pack: fas
-    link: http://scholar.google.com/citations?user=O7I7d1UAAAAJ&hl
   - icon: github
     icon_pack: fab
     link: https://github.com/AlonsoPizarroV
@@ -34,6 +31,11 @@ social:
     icon_pack: ai
     icon: orcid
     link: https://orcid.org/0000-0002-7242-6559
+  - display:
+      header: false
+    link: http://scholar.google.com/citations?user=O7I7d1UAAAAJ&hl
+    icon: graduation-cap
+    icon_pack: fas
 organizations:
   - name: Diego Portales University
     url: https://www.udp.cl/
