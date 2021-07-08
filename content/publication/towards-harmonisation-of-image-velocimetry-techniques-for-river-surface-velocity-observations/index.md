@@ -48,7 +48,7 @@ abstract: Since the turn of the 21st century, image-based velocimetry techniques
   data are available for 12 of the 13 case studies presented, enabling these
   data to be used for reference and accuracy assessment.
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
