@@ -29,6 +29,11 @@ social:
     link: https://osf.io/w2br8/
     icon_pack: ai
     icon: osf
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0002-7242-6559
 organizations:
   - name: Diego Portales University
     url: https://www.udp.cl/
