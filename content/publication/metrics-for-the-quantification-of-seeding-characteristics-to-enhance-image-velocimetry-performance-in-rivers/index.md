@@ -31,7 +31,7 @@ abstract: River flow monitoring is essential for many hydraulic and hydrologic
   field can help with the use of these techniques, providing a priori evaluation
   of the quality of the frame sequence for post-processing.
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
