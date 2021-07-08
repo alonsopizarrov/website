@@ -46,7 +46,7 @@ education:
       year: 2019
     - course: MSc in Civil Engineering
       institution: University of Concepcion
-      year: 2014
+      year: 2015
 email: alonsopizarrov@gmail.com
 superuser: true
 highlight_name: false
