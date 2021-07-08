@@ -52,5 +52,5 @@ image:
 date: 2021-07-08T14:01:05.187Z
 ---
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+open access research paper!
 {{% /callout %}}
