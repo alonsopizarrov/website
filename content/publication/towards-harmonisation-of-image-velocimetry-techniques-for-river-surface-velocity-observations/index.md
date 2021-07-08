@@ -27,7 +27,7 @@ authors:
   - Lionel Pénard
   - Leigh Sinclair
   - Salvatore Manfreda
-doi: https://doi.org/10.5194/essd-12-1545-2020
+doi: 10.5194/essd-12-1545-2020
 publication: in *Earth System Science Data*
 abstract: Since the turn of the 21st century, image-based velocimetry techniques
   have become an increasingly popular approach for determining open-channel flow
