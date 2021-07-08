@@ -44,7 +44,7 @@ tags:
 categories:
   - UAS
 projects:
-  - COST HARMONIOUS
+  - HARMONIOUS
 image:
   filename: featured.png
   focal_point: Smart
