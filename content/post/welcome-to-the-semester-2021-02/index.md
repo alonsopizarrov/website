@@ -22,25 +22,21 @@ image:
 ---
 ## Hydraulics for Civil Engineers
 
-* 👉 **[Create a new site](https://wowchemy.com/templates/)**
-* 📚 **[Personalize your site](https://wowchemy.com/docs/)**
-* 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or **[Hugo community](https://discourse.gohugo.io)**
-* 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [\#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-* 💡 [Request a **feature** or report a **bug** for *Wowchemy*](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-* ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-
+* 👉 xx
+* 📚 xx
+* 💬 xx
+* 🐦 Twitter: [@AlonsoPizarroV](https://twitter.com/AlonsoPizarroV)
+* 💡 xx
+* ⬆️ xx
 
 ## Water Resources Modelling
 
-* 👉 **[Create a new site](https://wowchemy.com/templates/)**
-* 📚 **[Personalize your site](https://wowchemy.com/docs/)**
-* 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or **[Hugo community](https://discourse.gohugo.io)**
-* 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [\#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-* 💡 [Request a **feature** or report a **bug** for *Wowchemy*](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-* ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-
+* 👉 xx
+* 📚 xx
+* 💬 xx
+* 🐦 Twitter: [@AlonsoPizarroV](https://twitter.com/AlonsoPizarroV)
+* 💡 xx
+* ⬆️ xx
 
 ## License
 
