@@ -52,5 +52,5 @@ image:
 date: 2021-07-08T14:01:05.187Z
 ---
 {{% callout note %}}
-open access research paper!
+open-access research paper!
 {{% /callout %}}
