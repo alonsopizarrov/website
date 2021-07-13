@@ -28,6 +28,9 @@ address:
   region: Región Metropolitana
   country: Chile
   country_code: CL
+coordinates:
+  latitude: '-33.4498954'
+  longitude: '-70.6638276'
 appointment_url: 'https://calendly.com/alonsopizarro'
 contact_links:
   - icon: twitter
