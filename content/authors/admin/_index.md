@@ -2,7 +2,7 @@
 title: Alonso Pizarro
 role: Professor of Hydraulics & Hydrology
 avatar_filename: avatar.jpg
-bio: My research interests include Hydraulcis, Hydrology, Stochastic processes
+bio: My research interests include Hydraulics, Hydrology, Stochastic processes
   in Hydrology, Fluvial monitoring, UASs, Bridge scour
 interests:
   - Hydraulics
