@@ -16,7 +16,7 @@ tags:
 categories:
   - Education
 image:
-  filename: featured
+  filename: cursos2021.png
   focal_point: Smart
   preview_only: false
 ---
