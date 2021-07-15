@@ -47,10 +47,13 @@ education:
     - course: MSc in Civil Engineering
       institution: University of Concepcion
       year: 2015
+    - course: BSc in Civil Engineering
+      institution: University of Concepcion
+      year: 2012
 email: alonsopizarrov@gmail.com
 superuser: true
 highlight_name: false
 ---
-Alonso Pizarro is a professor of hydraulics and hydrology at Diego Portales University. His research interests include hydrology, hydraulics, sediment transport, bridge scour, flood prediction, extreme flood events, stochastic processes, environmental monitoring using Unmanned Aerial Systems (UASs), and remote sensing applications for fluvial monitoring. Alonso utilises advanced surveying and flow measurement techniques and laboratory experiments. He is proficient in advanced programming languages (Matlab and Python) and GIS software (QGIS), which he uses to manipulate and analyse complex datasets, regularly publishing research articles in leading international journals.
+Alonso Pizarro is a professor of hydraulics and hydrology at Diego Portales University. His research interests include hydrology, hydraulics, sediment transport, bridge scour, flood prediction, extreme flood events, stochastic processes in hydrology, environmental monitoring using Unmanned Aerial Systems (UASs), and remote sensing applications for fluvial monitoring. Alonso utilises advanced surveying and flow measurement techniques and laboratory experiments. He is proficient in advanced programming languages (Matlab and Python) and GIS software (QGIS), which he uses to manipulate and analyse complex datasets, regularly publishing research articles in leading international journals. Alonso has recently adopted open science practices, making available data, codes, and analyses.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
