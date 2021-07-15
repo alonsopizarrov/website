@@ -7,7 +7,7 @@ bio: My research interests include Hydraulcis, Hydrology, Stochastic processes
 interests:
   - Hydraulics
   - Hydrology
-  - Stochastics processes in Hydrology
+  - Stochastic processes in Hydrology
   - Fluvial Monitoring
   - UASs
   - Bridge Scour
