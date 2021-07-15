@@ -20,23 +20,21 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Hydraulics for Civil Engineers
+## Hydraulics for Civil Engineers (COC2201)
 
-* 👉 xx
-* 📚 xx
-* 💬 xx
-* 🐦 Twitter: [@AlonsoPizarroV](https://twitter.com/AlonsoPizarroV)
-* 💡 xx
-* ⬆️ xx
+* 👉 Mon & Thu: 10.00 - 11.20 hrs
+* 📚 Course material on canvas
+* 💬 For questions, book an appointment [here](https://alonsopizarro.cl/#contact)
+* 💡 Academic Breaks: 13-19 September & 02-06 November
+* ⬆️ Write me a comment [here](https://alonsopizarro.cl/#contact) if you think the course can be improved!
 
-## Water Resources Modelling
+## Water Resources Modelling (COC3419)
 
-* 👉 xx
-* 📚 xx
-* 💬 xx
-* 🐦 Twitter: [@AlonsoPizarroV](https://twitter.com/AlonsoPizarroV)
-* 💡 xx
-* ⬆️ xx
+* 👉 Tue & Fri: 14.30 - 15.50 hrs
+* 📚 Course material on canvas
+* 💬 For questions, book an appointment [here](https://alonsopizarro.cl/#contact)
+* 💡  Academic Breaks: 13-19 September & 02-06 November
+* ⬆️ Write me a comment [here](https://alonsopizarro.cl/#contact) if you think the course can be improved!
 
 ## License
 
