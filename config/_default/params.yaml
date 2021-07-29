@@ -23,11 +23,11 @@ twitter: ''
 email: alonso.pizarro@mail.udp.cl
 #phone: 888 888 88 88
 address:
-  street: Vergara 210
+  street: Av. Ejército 441
   city: Santiago
   region: Región Metropolitana
   country: Chile
-  country_code: CL
+  country_code: 'CL'
 coordinates:
   latitude: '-33.4498954'
   longitude: '-70.6638276'
