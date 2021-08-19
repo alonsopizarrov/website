@@ -29,3 +29,7 @@ image:
   preview_only: false
 date: 2021-08-19T13:23:10.862Z
 ---
+{{% callout note %}}
+**Code & Data availability:** ScourAPP v0.01 is open-source software (written in MATLAB R2020a), freely available to download from <https://doi.org/10.17605/OSF.IO/VDB9N>
+
+{{% /callout %}}
