@@ -34,5 +34,7 @@ image:
 date: 2021-08-26T13:50:58.969Z
 ---
 {{% callout note %}}
-open-access research paper!
+open-access research paper! 
+
+You can read the manuscript in the following [here](https://doi.org/10.3390/drones5030081)
 {{% /callout %}}
