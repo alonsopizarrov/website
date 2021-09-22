@@ -71,3 +71,8 @@ image:
   preview_only: false
 date: 2021-09-22T13:24:17.953Z
 ---
+{{% callout note %}}
+open-access research paper! 
+
+You can read the manuscript [here](https://doi.org/10.5194/hess-25-5105-2021)
+{{% /callout %}}
