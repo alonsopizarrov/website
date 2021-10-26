@@ -15,7 +15,7 @@ authors:
   - Ram L Ray
   - Gehendra Kharel
 doi: 10.1029/2021WR029925
-publication: Water Resources Research
+publication: in *Water Resources Research*
 publication_short: WRR
 abstract: The hydrologic sciences and water resources management have long
   depended on a combination of in-situ measurements and remotely-sensed data for
