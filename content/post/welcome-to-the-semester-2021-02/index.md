@@ -2,7 +2,7 @@
 title: Welcome to the semester 2022-01
 subtitle: "Welcome 👋! This post introduces the courses I am giving this 2022-01 "
 date: 2021-07-08T15:56:35.412Z
-summary: Welcome 👋! This post introduces the courses I am giving this 2021-02
+summary: Welcome 👋! This post introduces the courses I am giving this 2022-01
 draft: false
 featured: true
 authors:
