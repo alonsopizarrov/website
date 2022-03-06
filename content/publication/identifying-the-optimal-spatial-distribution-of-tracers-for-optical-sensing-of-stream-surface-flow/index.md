@@ -38,7 +38,7 @@ abstract: "River monitoring is of particular interest as a society that faces
   of about 15.9 % and 16.1 % were calculated – using PTV and PIV, respectively –
   by employing the optimal frame window."
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
