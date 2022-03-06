@@ -34,7 +34,7 @@ abstract: "River streamflow monitoring is currently facing a transformation due
   0.40% and 0.12% for each case study, respectively. These values were lower
   than those obtained, considering all frames available."
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
