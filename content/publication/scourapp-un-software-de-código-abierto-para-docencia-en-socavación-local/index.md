@@ -18,7 +18,7 @@ abstract: ScourAPP es un software de código abierto que modela la evolución
   mientras que la sección 4 presenta el caso de estudio del puente Rapel,
   ilustrando las posibilidades del software para la docencia universitaria.
 draft: false
-featured: true
+featured: false
 tags:
   - BridgeScour
 categories:
