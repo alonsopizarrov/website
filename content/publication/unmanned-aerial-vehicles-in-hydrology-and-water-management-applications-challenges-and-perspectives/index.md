@@ -39,7 +39,7 @@ abstract: The hydrologic sciences and water resources management have long
   interaction studies, water management in agriculture and forestry, ecosystem
   monitoring, and hydrological modeling.
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
