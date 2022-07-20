@@ -19,7 +19,7 @@ abstract: Videos acquired from Unmanned Aerial Systems (UAS) allow for
   on this topic, with a special focus on the main challenges to foster future
   research studies.
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
