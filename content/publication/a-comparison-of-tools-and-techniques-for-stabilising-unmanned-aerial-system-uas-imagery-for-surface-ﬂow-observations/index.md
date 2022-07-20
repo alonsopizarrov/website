@@ -58,7 +58,7 @@ abstract: While the availability and affordability of unmanned aerial systems
   in this paper can be used in order to measure the velocity estimation
   uncertainty induced by UAS motion.
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
