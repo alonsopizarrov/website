@@ -27,7 +27,7 @@ abstract: The identification of the second-order dependence structure of
   literature. The results provide evidence in identifying a common stochastic
   structure for the streamflow process, based on the Pareto–Burr–Feller marginal
   dis-tribution and a generalized Hurst–Kolmogorov (HK) dependence structure.
-draft: true
+draft: false
 featured: true
 tags:
   - Stochastics
