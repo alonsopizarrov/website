@@ -6,7 +6,8 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Panayiotis Dimitriadis Theano Iliopoulou
+  - Panayiotis Dimitriadis
+  - Theano Iliopoulou
   - Salvatore Manfreda
   - Demetris Koutsoyiannis
 doi: 10.3390/hydrology9070126
