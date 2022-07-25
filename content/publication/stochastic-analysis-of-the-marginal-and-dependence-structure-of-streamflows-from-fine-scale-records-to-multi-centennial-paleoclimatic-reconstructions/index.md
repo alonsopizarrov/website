@@ -32,6 +32,10 @@ draft: false
 featured: true
 tags:
   - Stochastics
+  - Hydrology
+categories:
+  - Stochastics
+  - Hydrology
 image:
   filename: featured.png
   focal_point: Smart
