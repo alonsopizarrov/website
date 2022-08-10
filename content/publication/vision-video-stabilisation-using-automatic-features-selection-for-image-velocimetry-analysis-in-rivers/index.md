@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Silvano F. Dal Sasso
+  - Silvano Dal Sasso
   - Salvatore Manfreda
 doi: http://dx.doi.org/10.1016/j.softx.2022.101173
 publication: in *SoftwareX*
@@ -25,7 +25,7 @@ abstract: "VISION is open-source software written in MATLAB for video
   to field measurements obtaining a significant error reduction of velocities.
   VISION is an easy-to-use software that may support research operating in image
   processing, but it can also be adopted for educational purposes."
-draft: true
+draft: false
 featured: true
 tags:
   - UAS
