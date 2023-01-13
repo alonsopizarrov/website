@@ -12,3 +12,5 @@ image:
   preview_only: false
 ---
 The presentation I gave at the Gravel Bed Rivers 9 conference can be downloaded from the following link:
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/00_PPT_AlonsoPizarro.pdf" "newtab" >}}ppt{{< /staticref >}}.
