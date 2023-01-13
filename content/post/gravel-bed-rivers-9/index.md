@@ -1,9 +1,9 @@
 ---
-title: Gravel Bed Rivers 9
+title: Gravel Bed Rivers 9 - Villarrica, 9-13 January 2023
 subtitle: ""
 date: 2023-01-13T16:20:19.923Z
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 image:
