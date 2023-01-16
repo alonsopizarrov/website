@@ -4,7 +4,7 @@ widget_id: teaching
 weight: 0
 title: Teaching
 subtitle: null
-active: false
+active: true
 content:
   page_type: talk
   count: 5
