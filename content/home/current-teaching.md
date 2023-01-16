@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: current teaching
+widget_id: teaching
 weight: 60
 title: Teaching
 subtitle: null
