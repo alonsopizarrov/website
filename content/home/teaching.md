@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: teaching
+widget_id: courses
 headless: true
 weight: 50
 title: Teaching
