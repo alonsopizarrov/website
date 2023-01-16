@@ -1,6 +1,6 @@
 ---
 role: Professor of Hydraulics & Hydrology
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include Hydraulics, Hydrology, Stochastic processes
   in Hydrology, Fluvial monitoring, UASs, Bridge scour
 interests:
