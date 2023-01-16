@@ -4,7 +4,7 @@ widget_id: teaching
 headless: true
 weight: 50
 title: Teaching
-active: true
+active: false
 design:
   columns: "2"
   background:
