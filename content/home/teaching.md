@@ -48,4 +48,3 @@ design:
   background:
     text_color_light: false
     image_darken: 1
->>>>>>> 012cb1f6472852be9b204603fd4fe7c60eccdea4
