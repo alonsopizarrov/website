@@ -6,7 +6,7 @@ title: Teaching
 subtitle: null
 active: true
 content:
-  page_type: talk
+  page_type: courses
   count: 5
   filters:
     author: ""
