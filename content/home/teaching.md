@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: events
 widget_id: teaching
 headless: true
 weight: 50
