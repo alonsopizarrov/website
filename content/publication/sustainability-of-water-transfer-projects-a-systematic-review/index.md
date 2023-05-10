@@ -36,7 +36,7 @@ featured: true
 tags:
   - LiteratureReview
 image:
-  filename: featured.jpeg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2023-05-10T19:31:54.587Z
