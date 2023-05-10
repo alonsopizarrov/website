@@ -35,7 +35,7 @@ abstract: However rare, dam breach occurrences are recently reported and
   investigations to reduce this uncertainty and, therefore, the risk associated
   with it.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.jpeg
   focal_point: Smart
