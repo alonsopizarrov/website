@@ -31,7 +31,7 @@ abstract: Inland water is fundamental for the conservation of flora and fauna
   RMSE and MAE with errors less than 6 μg L−1. The spatial distribution of Chl-a
   concentrations at the study site was obtained based on the proposed equations.
 draft: false
-featured: true
+featured: false
 tags:
   - Remote Sensing
 image:
