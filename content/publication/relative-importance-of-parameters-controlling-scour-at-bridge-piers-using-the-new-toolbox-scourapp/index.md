@@ -26,7 +26,7 @@ abstract: The new toolbox ScourApp is presented and applied for analysis of the
   is recommended in scour assessment for bridge planning, design, management,
   and forensic analysis, as well as for engineering education.
 draft: false
-featured: true
+featured: false
 tags:
   - BridgeScour
 categories:
