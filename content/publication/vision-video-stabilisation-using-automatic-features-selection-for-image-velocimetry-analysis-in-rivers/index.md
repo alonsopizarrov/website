@@ -26,7 +26,7 @@ abstract: "VISION is open-source software written in MATLAB for video
   VISION is an easy-to-use software that may support research operating in image
   processing, but it can also be adopted for educational purposes."
 draft: false
-featured: true
+featured: false
 tags:
   - UAS
 categories:
