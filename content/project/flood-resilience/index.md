@@ -2,7 +2,7 @@
 title: FLOOD RESILIENCE
 subtitle: "(FONDECYT de iniciación, Reference project number: 11240171)"
 date: 2024-09-10T12:11:42.347Z
-summary: The Forensic Local scOur assessment fOr briDge resilience (FLOOD
+summary: "The Forensic Local scOur assessment fOr briDge resilience (FLOOD
   RESILIENCE) project aims to develop a novel and comprehensive probabilistic
   framework for evaluating bridge scour risk. Although scour is the leading
   cause of bridge failures worldwide, the current practices for bridge scour
@@ -13,10 +13,20 @@ summary: The Forensic Local scOur assessment fOr briDge resilience (FLOOD
   occurrence of multiple future floods with different intensities. The latter
   motivated the Principal Investigator (PI) to follow a numerical and modelling
   approach to deal with and overcome the limitations of current bridge scour
-  risk procedures.
+  risk procedures. FLOOD RESILIENCE  will adopt 3 working packages related to:
+  a) Stochastic processes in hydrology (floods and synthetic generation of
+  streamflow timeseries); b) Hydraulic analysis (scour timeseries and scour
+  hazard model); c) Structural analysis (scour vulnerability model and scour
+  risk)."
 draft: false
 featured: true
 tags:
+  - Stochastics
+  - Streamflow
+  - Variability
+  - Bridge
+  - Scour
+categories:
   - Stochastics
   - Streamflow
   - Variability
