@@ -4,7 +4,6 @@ avatar_filename: avatar.png
 bio: My research interests include Hydrology, Stochastic processes in Hydrology,
   Fluvial monitoring, UASs, Bridge scour
 interests:
-  - Hydraulics
   - Hydrology
   - Stochastic processes in Hydrology
   - Fluvial Monitoring
